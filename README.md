@@ -7,3 +7,21 @@
 
 
 ![Bills counter](wydatki_icon.ico)
+
+
+##### I used auto-py-to-exe. It works without pyhon ! 
+💪
+💪
+💪
+💪
+💪
+💪
+💪
+💪
+💪
+💪
+💪
+💪
+💪
+💪
+
